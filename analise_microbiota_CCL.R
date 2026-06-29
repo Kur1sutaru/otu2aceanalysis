@@ -2,7 +2,7 @@
 # ANÁLISE DE MICROBIOTA INTESTINAL — CCL vs CONTROLE
 # Sequenciamento 16S rRNA (IonTorrent) | Região V4
 # ============================================================
-# Autora: [seu nome]
+# Autora: Cristal Villalba
 # Data:   2026
 # R:      4.3.2
 #
